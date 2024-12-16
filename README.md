@@ -1,4 +1,5 @@
 Project D10: KAGGLE - PLANT DISEASES
+
 Authors: Liis Siigur, Mia Männi, Robert Sarnet
 
 1. Motivation and goals of the project
